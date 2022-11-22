@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+ipython = "*"
+ipykernel = "*"
+pandas = "*"
+matplotlib = "*"
+notebook = "*"
+jupyterlab = "*"
+altair = "*"
+jupytext = "*"
+jupyterlab-templates = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
+
+[scripts]
+first_install = "python .first_install.py"
+export_rmarkdown = "Rscript .export_rmarkdown.R"

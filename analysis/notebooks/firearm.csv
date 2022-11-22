@@ -1,0 +1,524 @@
+ori,,2019,2020,2021,perc_19_19,perc_20_19,perc_21_19
+AR0040100,Bentonville Police Department,7,13,5,1,1.857142857,0.714285714
+AR0040200,Rogers Police Department,41,22,29,1,0.536585366,0.707317073
+AR0160100,Jonesboro Police Department,81,106,99,1,1.308641975,1.222222222
+AR0230100,Conway Police Department,46,56,59,1,1.217391304,1.282608696
+AR0260000,Garland County Sheriff's Office,14,29,35,1,2.071428571,2.5
+AR0600200,Little Rock Police Department,583,869,1049,1,1.490566038,1.799313894
+AR0600300,North Little Rock Police Department,115,185,220,1,1.608695652,1.913043478
+AR0630000,Saline County Sheriff's Office,19,27,25,1,1.421052632,1.315789474
+AR0660100,Fort Smith Police Department,92,144,163,1,1.565217391,1.77173913
+AR0720100,Fayetteville Police Department,46,77,86,1,1.673913043,1.869565217
+AR0720200,Springdale Police Department,,,39,#DIV/0!,#DIV/0!,#DIV/0!
+AZ0071100,Gilbert Police Department,41,40,51,1,0.975609756,1.243902439
+AZ0110100,Casa Grande Police Department,15,49,51,1,3.266666667,3.4
+AZ0140000,Yuma County Sheriff's Office,14,21,33,1,1.5,2.357142857
+AZ0140500,Yuma Police Department,40,78,63,1,1.95,1.575
+CO0010000,Adams County Sheriff's Office,83,122,173,1,1.469879518,2.084337349
+CO0010100,Aurora Police Department,393,637,852,1,1.62086514,2.167938931
+CO0010300,Commerce City Police Department,47,61,109,1,1.29787234,2.319148936
+CO0010400,Thornton Police Department,16,20,23,1,1.25,1.4375
+CO0010500,Westminster Police Department,45,50,72,1,1.111111111,1.6
+CO0030000,Arapahoe County Sheriff's Office,15,63,47,1,4.2,3.133333333
+CO0031100,Centennial Police Department,13,22,26,1,1.692307692,2
+CO0070000,Boulder County Sheriff's Office,18,10,18,1,0.555555556,1
+CO0070100,Boulder Police Department,24,22,29,1,0.916666667,1.208333333
+CO0070400,Longmont Police Department,60,53,75,1,0.883333333,1.25
+CO0180000,Douglas County Sheriff's Office,45,71,63,1,1.577777778,1.4
+CO0180100,Castle Rock Police Department,0,1,0,#DIV/0!,#DIV/0!,#DIV/0!
+CO0180500,Parker Police Department,9,10,11,1,1.111111111,1.222222222
+CO0210000,El Paso County Sheriff's Office,87,107,127,1,1.229885057,1.459770115
+CO0210100,Colorado Springs Police Department,474,618,583,1,1.303797468,1.229957806
+CO0300000,Jefferson County Sheriff's Office,15,28,55,1,1.866666667,3.666666667
+CO0300100,Arvada Police Department,37,38,60,1,1.027027027,1.621621622
+CO0300400,Lakewood Police Department,15,104,150,1,6.933333333,10
+CO0350000,Larimer County Sheriff's Office,26,21,26,1,0.807692308,1
+CO0350300,Fort Collins Police Department,29,40,31,1,1.379310345,1.068965517
+CO0350400,Loveland Police Department,22,21,29,1,0.954545455,1.318181818
+CO0390000,Mesa County Sheriff's Office,17,28,33,1,1.647058824,1.941176471
+CO0390100,Grand Junction Police Department,42,60,56,1,1.428571429,1.333333333
+CO0510000,Pueblo County Sheriff's Office,8,4,7,1,0.5,0.875
+CO0510100,Pueblo Police Department,125,244,369,1,1.952,2.952
+CO0620000,Weld County Sheriff's Office,27,39,27,1,1.444444444,1
+CO0620200,Greeley Police Department,48,73,98,1,1.520833333,2.041666667
+CO0640100,Broomfield Police Department,2,1,3,1,0.5,1.5
+CODPD0000,Denver Police Department,717,944,1166,1,1.316596932,1.626220363
+CT0001500,Bridgeport Police Department,116,127,101,1,1.094827586,0.870689655
+CT0001700,Bristol Police Department,2,4,2,1,2,1
+CT0003400,Danbury Police Department,3,1,2,1,0.333333333,0.666666667
+CT0005100,Fairfield Police Department,2,4,1,1,2,0.5
+CT0005700,Greenwich Police Department,0,0,0,#DIV/0!,#DIV/0!,#DIV/0!
+CT0006200,Hamden Police Department,9,11,11,1,1.222222222,1.222222222
+CT0009300,New Haven Police Department,163,181,169,1,1.110429448,1.036809816
+CT0010300,Norwalk Police Department,8,14,1,1,1.75,0.125
+CT0013500,Stamford Police Department,3,22,20,1,7.333333333,6.666666667
+CT0013800,Stratford Police Department,6,2,7,1,0.333333333,1.166666667
+CT0015100,Waterbury Police Department,32,61,37,1,1.90625,1.15625
+CT0015500,West Hartford Police Department,1,0,1,1,0,1
+CT0015600,West Haven Police Department,2,5,6,1,2.5,3
+CTCSP0000,Connecticut State Police,10,12,15,1,1.2,1.5
+DE0020300,New Castle County Police Department,136,181,169,1,1.330882353,1.242647059
+DE0020600,Wilmington Police Department,190,267,248,1,1.405263158,1.305263158
+DE301SP00,State Police: Kent County,51,63,44,1,1.235294118,0.862745098
+DE303SP00,State Police: Sussex County,52,73,84,1,1.403846154,1.615384615
+GA0380000,Coweta County Sheriff's Office,33,30,42,1,0.909090909,1.272727273
+GA0605600,Sandy Springs Police Department,21,28,52,1,1.333333333,2.476190476
+GA0690000,Hall County Sheriff's Office,26,43,57,1,1.653846154,2.192307692
+GA1070000,Newton County Sheriff's Office,3,78,113,1,26,37.66666667
+GA1100000,Paulding County Sheriff's Office,33,94,79,1,2.848484848,2.393939394
+HI0020000,Honolulu Police Department,173,176,168,1,1.01734104,0.971098266
+IA0070300,Waterloo Police Department,45,63,71,1,1.4,1.577777778
+IA0310100,Dubuque Police Department,7,21,29,1,3,4.142857143
+IA0520200,Iowa City Police Department,5,6,29,1,1.2,5.8
+IA0570100,Cedar Rapids Police Department,40,50,93,1,1.25,2.325
+IA0770000,Polk County Sheriff's Office,7,7,6,1,1,0.857142857
+IA0770100,Ankeny Police Department,8,13,8,1,1.625,1
+IA0770300,Des Moines Police Department,158,173,128,1,1.094936709,0.810126582
+IA0770500,West Des Moines Police Department,,9,11,#DIV/0!,#DIV/0!,#DIV/0!
+IA0780100,Council Bluffs Police Department,24,31,18,1,1.291666667,0.75
+IA0820200,Davenport Police Department,121,183,173,1,1.512396694,1.429752066
+IA0850100,Ames Police Department,4,6,4,1,1.5,1
+IA0970100,Sioux City Police Department,30,50,63,1,1.666666667,2.1
+ID0010000,Ada County Sheriff's Office,12,23,19,1,1.916666667,1.583333333
+ID0010100,Boise Police Department,49,84,77,1,1.714285714,1.571428571
+ID0010300,Meridian Police Department,16,22,24,1,1.375,1.5
+ID0030200,Pocatello Police Department,18,25,17,1,1.388888889,0.944444444
+ID0100000,Bonneville County Sheriff's Office,9,16,13,1,1.777777778,1.444444444
+ID0100200,Idaho Falls Police Department,11,35,24,1,3.181818182,2.181818182
+ID0140000,Canyon County Sheriff's Office,10,18,15,1,1.8,1.5
+ID0140200,Nampa Police Department,22,45,48,1,2.045454545,2.181818182
+ID0280000,Kootenai County Sheriff's Office,26,11,24,1,0.423076923,0.923076923
+ID0280100,Coeur d'Alene Police Department,11,28,18,1,2.545454545,1.636363636
+ID0420200,Twin Falls Police Department,21,26,28,1,1.238095238,1.333333333
+IL1010400,Rockford Police Department,318,524,603,1,1.647798742,1.896226415
+IN0320000,Hendricks County Sheriff's Office,,7,11,#DIV/0!,#DIV/0!,#DIV/0!
+IN0530100,Bloomington Police Department,0,41,52,#DIV/0!,#DIV/0!,#DIV/0!
+IN0710000,St. Joseph County Sheriff's Office,3,8,22,1,2.666666667,7.333333333
+IN0840100,Terre Haute Police Department,11,33,34,1,3,3.090909091
+INIPD0000,Indianapolis Police Department,0,1919,1763,#DIV/0!,#DIV/0!,#DIV/0!
+KS0460500,Olathe Police Department,29,55,52,1,1.896551724,1.793103448
+KS0460900,Shawnee Police Department,23,32,33,1,1.391304348,1.434782609
+KS0461000,Lenexa Police Department,6,15,15,1,2.5,2.5
+KS0810000,Riley County Police Department,42,38,35,1,0.904761905,0.833333333
+KS0890000,Shawnee County Sheriff's Office,19,20,17,1,1.052631579,0.894736842
+KY0080000,Boone County Sheriff's Office,2,3,3,1,1.5,1.5
+KY0300100,Owensboro Police Department,12,13,19,1,1.083333333,1.583333333
+KY0340200,Lexington Police Department,114,132,123,1,1.157894737,1.078947368
+KY0470000,Hardin County Sheriff's Office,2,5,1,1,2.5,0.5
+KY0568000,Louisville Metro Police Department,1097,1661,2045,1,1.514129444,1.864175023
+KY0630000,Laurel County Sheriff's Office,1,3,3,1,3,3
+KY0930400,Oldham County Police Department,0,1,0,#DIV/0!,#DIV/0!,#DIV/0!
+KY1000000,Pulaski County Sheriff's Office,1,8,1,1,8,1
+KY1140000,Warren County Sheriff's Office,3,6,4,1,2,1.333333333
+KY1140100,Bowling Green Police Department,12,26,17,1,2.166666667,1.416666667
+LA0030000,Ascension Parish Sheriff's Office,61,103,116,1,1.68852459,1.901639344
+LA0100000,Calcasieu Parish Sheriff's Office,80,111,106,1,1.3875,1.325
+LA0290000,Lafourche Parish Sheriff's Office,44,70,78,1,1.590909091,1.772727273
+LA0370000,Ouachita Parish Sheriff's Office,85,108,116,1,1.270588235,1.364705882
+LA0400000,Rapides Parish Sheriff's Office,46,79,82,1,1.717391304,1.782608696
+MA0030800,Fall River Police Department,45,48,70,1,1.066666667,1.555555556
+MA0031100,New Bedford Police Department,33,43,44,1,1.303030303,1.333333333
+MA0031900,Taunton Police Department,14,16,13,1,1.142857143,0.928571429
+MA0051100,Haverhill Police Department,23,18,23,1,0.782608696,1
+MA0051400,Lynn Police Department,44,42,37,1,0.954545455,0.840909091
+MA0051900,Methuen Police Department,9,3,2,1,0.333333333,0.222222222
+MA0052500,Peabody Police Department,0,5,13,#DIV/0!,#DIV/0!,#DIV/0!
+MA0070500,Chicopee Police Department,15,19,16,1,1.266666667,1.066666667
+MA0071800,Springfield Police Department,159,207,230,1,1.301886792,1.446540881
+MA0091100,Cambridge Police Department,18,17,28,1,0.944444444,1.555555556
+MA0091800,Framingham Police Department,8,12,7,1,1.5,0.875
+MA0092600,Lowell Police Department,27,37,47,1,1.37037037,1.740740741
+MA0092700,Malden Police Department,11,9,13,1,0.818181818,1.181818182
+MA0093000,Medford Police Department,10,7,5,1,0.7,0.5
+MA0093300,Newton Police Department,2,1,2,1,0.5,1
+MA0093900,Somerville Police Department,15,11,14,1,0.733333333,0.933333333
+MA0094700,Waltham Police Department,0,5,3,#DIV/0!,#DIV/0!,#DIV/0!
+MA0110400,Brookline Police Department,0,1,1,#DIV/0!,#DIV/0!,#DIV/0!
+MA0112000,Quincy Police Department,6,7,13,1,1.166666667,2.166666667
+MA0112700,Weymouth Police Department,3,3,5,1,1,1.666666667
+MA0120300,Brockton Police Department,61,68,72,1,1.114754098,1.180327869
+MA0122000,Plymouth Police Department,8,4,5,1,0.5,0.625
+MA0130400,Revere Police Department,16,15,12,1,0.9375,0.75
+MA0146000,Worcester Police Department,111,140,121,1,1.261261261,1.09009009
+MD0160400,Montgomery County Police Department,84,124,165,1,1.476190476,1.964285714
+ME0060000,Kennebec County Sheriff's Office,2,3,0,1,1.5,0
+MI0310300,Allegan County Sheriff's Office,10,8,12,1,0.8,1.2
+MI0910900,Bay County Sheriff's Office,4,3,6,1,0.75,1.5
+MI1111100,Berrien County Sheriff's Office,10,8,19,1,0.8,1.9
+MI1323700,Battle Creek Police Department,81,98,99,1,1.209876543,1.222222222
+MI2312300,Eaton County Sheriff's Office,14,32,23,1,2.285714286,1.642857143
+MI2539800,Flint Police Department,299,289,305,1,0.966555184,1.02006689
+MI2812800,Grand Traverse County Sheriff's Office,10,2,14,1,0.2,1.4
+MI3313300,Ingham County Sheriff's Office,13,24,22,1,1.846153846,1.692307692
+MI3351900,Lansing Police Department,165,357,408,1,2.163636364,2.472727273
+MI3813800,Jackson County Sheriff's Office,17,11,22,1,0.647058824,1.294117647
+MI3913900,Kalamazoo County Sheriff's Office,34,59,59,1,1.735294118,1.735294118
+MI3949900,Kalamazoo Police Department,136,282,277,1,2.073529412,2.036764706
+MI3967800,Portage Police Department,7,15,15,1,2.142857143,2.142857143
+MI4114100,Kent County Sheriff's Office,31,51,55,1,1.64516129,1.774193548
+MI4143600,Grand Rapids Police Department,129,276,374,1,2.139534884,2.899224806
+MI4183400,Wyoming Police Department,43,63,66,1,1.465116279,1.534883721
+MI4185000,Kentwood Police Department,11,33,24,1,3,2.181818182
+MI4414400,Lapeer County Sheriff's Office,8,7,11,1,0.875,1.375
+MI4714700,Livingston County Sheriff's Office,6,9,10,1,1.5,1.666666667
+MI5015000,Macomb County Sheriff's Office,27,31,45,1,1.148148148,1.666666667
+MI5072200,St. Clair Shores Police Department,10,18,11,1,1.8,1.1
+MI5074000,Shelby Township Police Department,9,17,13,1,1.888888889,1.444444444
+MI5076500,Sterling Heights Police Department,15,41,36,1,2.733333333,2.4
+MI5080600,Warren Police Department,90,122,127,1,1.355555556,1.411111111
+MI5084900,Clinton Township Police Department,35,59,55,1,1.685714286,1.571428571
+MI5915900,Montcalm County Sheriff's Office,1,3,8,1,3,8
+MI6116100,Muskegon County Sheriff's Office,7,6,2,1,0.857142857,0.285714286
+MI631900X,Pontiac Police Department,126,145,160,1,1.150793651,1.26984127
+MI631910X,Rochester Hills Police Department,5,4,3,1,0.8,0.6
+MI6338900,Farmington Hills Police Department,10,13,19,1,1.3,1.9
+MI6362700,Novi Police Department,3,12,6,1,4,2
+MI6371400,Royal Oak Police Department,3,4,7,1,1.333333333,2.333333333
+MI6375100,Southfield Police Department,32,67,98,1,2.09375,3.0625
+MI6378400,Troy Police Department,5,11,23,1,2.2,4.6
+MI6380800,Waterford Township Police Department,13,22,22,1,1.692307692,1.692307692
+MI6381500,West Bloomfield Township Police Department,2,6,10,1,3,5
+MI7017000,Ottawa County Sheriff's Office,35,41,52,1,1.171428571,1.485714286
+MI7417400,St. Clair County Sheriff's Office,9,19,17,1,2.111111111,1.888888889
+MI8018000,Van Buren County Sheriff's Office,11,8,9,1,0.727272727,0.818181818
+MI8118100,Washtenaw County Sheriff's Office,67,116,92,1,1.731343284,1.373134328
+MI8121800,Ann Arbor Police Department,19,19,28,1,1,1.473684211
+MI8234300,Dearborn Police Department,48,85,88,1,1.770833333,1.833333333
+MI8234400,Dearborn Heights Police Department,24,55,51,1,2.291666667,2.125
+MI8234900,Detroit Police Department,3163,4315,4379,1,1.364211192,1.384445147
+MI8253800,Livonia Police Department,27,42,36,1,1.555555556,1.333333333
+MI8277500,Taylor Police Department,46,87,76,1,1.891304348,1.652173913
+MI8281700,Westland Police Department,33,63,77,1,1.909090909,2.333333333
+MI8290800,Canton Township Police Department,11,18,26,1,1.636363636,2.363636364
+MN0100000,Carver County Sheriff's Office,2,1,3,1,0.5,1.5
+MN0270300,Brooklyn Park Police Department,,76,66,#DIV/0!,#DIV/0!,#DIV/0!
+MN0271100,Minneapolis Police Department,486,874,1101,1,1.798353909,2.265432099
+MN0550100,Rochester Police Department,20,24,31,1,1.2,1.55
+MN0620000,Ramsey County Sheriff's Office,16,24,28,1,1.5,1.75
+MN0690000,St. Louis County Sheriff's Office,2,10,6,1,5,3
+MO0100200,Columbia Police Department,17,109,123,1,6.411764706,7.235294118
+MO0110100,St. Joseph Police Department,62,51,45,1,0.822580645,0.725806452
+MO0360000,Franklin County Sheriff's Office,4,5,10,1,1.25,2.5
+MO0490700,Joplin Police Department,20,41,28,1,2.05,1.4
+MO0920300,St. Charles Police Department,7,35,35,1,5,5
+MO0920400,St. Peters Police Department,6,10,9,1,1.666666667,1.5
+MOKPD0000,Kansas City Police Department,1565,1947,1910,1,1.244089457,1.220447284
+MS0170100,Southaven Police Department,15,16,34,1,1.066666667,2.266666667
+MS0240000,Harrison County Sheriff's Office,7,11,9,1,1.571428571,1.285714286
+MS0240200,Gulfport Police Department,68,90,76,1,1.323529412,1.117647059
+MT0070100,Great Falls Police Department,14,24,33,1,1.714285714,2.357142857
+MT0150000,Flathead County Sheriff's Office,30,34,34,1,1.133333333,1.133333333
+MT0160000,Gallatin County Sheriff's Office,16,15,20,1,0.9375,1.25
+MT0160100,Bozeman Police Department,2,16,17,1,8,8.5
+MT0320100,Missoula Police Department,14,28,38,1,2,2.714285714
+MT0560100,Billings Police Department,37,95,158,1,2.567567568,4.27027027
+NB0280000,Douglas County Sheriff's Office,3,4,9,1,1.333333333,3
+NB0400100,Grand Island Police Department,13,18,13,1,1.384615385,1
+NB0770000,Sarpy County Sheriff's Office,0,0,0,#DIV/0!,#DIV/0!,#DIV/0!
+NB0770100,Bellevue Police Department,3,0,1,1,0,0.333333333
+NC0010000,Alamance County Sheriff's Office,28,41,47,1,1.464285714,1.678571429
+NC0010100,Burlington Police Department,65,104,117,1,1.6,1.8
+NC0110000,Buncombe County Sheriff's Office,51,32,23,1,0.62745098,0.450980392
+NC0110100,Asheville Police Department,115,127,118,1,1.104347826,1.026086957
+NC0120000,Burke County Sheriff's Office,13,19,16,1,1.461538462,1.230769231
+NC0130000,Cabarrus County Sheriff's Office,7,8,10,1,1.142857143,1.428571429
+NC0130100,Concord Police Department,30,34,24,1,1.133333333,0.8
+NC0130200,Kannapolis Police Department,27,46,37,1,1.703703704,1.37037037
+NC0140000,Caldwell County Sheriff's Office,16,12,19,1,0.75,1.1875
+NC0190000,Chatham County Sheriff's Office,5,15,15,1,3,3
+NC0230000,Cleveland County Sheriff's Office,19,24,38,1,1.263157895,2
+NC0260100,Fayetteville Police Department,340,532,571,1,1.564705882,1.679411765
+NC0320100,Durham Police Department,410,615,574,1,1.5,1.4
+NC0330100,Rocky Mount Police Department,121,177,145,1,1.462809917,1.198347107
+NC0350000,Franklin County Sheriff's Office,16,34,25,1,2.125,1.5625
+NC0410000,Guilford County Sheriff's Office,53,59,55,1,1.113207547,1.037735849
+NC0410200,Greensboro Police Department,522,620,553,1,1.187739464,1.059386973
+NC0410300,High Point Police Department,246,232,171,1,0.943089431,0.695121951
+NC0490000,Iredell County Sheriff's Office,20,28,32,1,1.4,1.6
+NC0510000,Johnston County Sheriff's Office,16,23,32,1,1.4375,2
+NC0550000,Lincoln County Sheriff's Office,26,48,28,1,1.846153846,1.076923077
+NC0600100,Charlotte-Mecklenburg Police Department,1517,2032,2079,1,1.339485827,1.370468029
+NC0600600,Huntersville Police Department,15,31,20,1,2.066666667,1.333333333
+NC0630000,Moore County Sheriff's Office,6,9,5,1,1.5,0.833333333
+NC0650000,New Hanover County Sheriff's Office,26,23,25,1,0.884615385,0.961538462
+NC0650200,Wilmington Police Department,165,189,122,1,1.145454545,0.739393939
+NC0680000,Orange County Sheriff's Office,12,20,24,1,1.666666667,2
+NC0680100,Chapel Hill Police Department,3,18,16,1,6,5.333333333
+NC0740000,Pitt County Sheriff's Office,24,41,32,1,1.708333333,1.333333333
+NC0740300,Greenville Police Department,100,108,120,1,1.08,1.2
+NC0780000,Robeson County Sheriff's Office,207,322,360,1,1.555555556,1.739130435
+NC0790000,Rockingham County Sheriff's Office,9,16,8,1,1.777777778,0.888888889
+NC0800000,Rowan County Sheriff's Office,19,37,41,1,1.947368421,2.157894737
+NC0820000,Sampson County Sheriff's Office,40,30,35,1,0.75,0.875
+NC0900000,Union County Sheriff's Office,35,57,56,1,1.628571429,1.6
+NC0920000,Wake County Sheriff's Office,30,47,49,1,1.566666667,1.633333333
+NC0920100,Raleigh Police Department,203,376,489,1,1.852216749,2.408866995
+NC0920200,Apex Police Department,7,2,4,1,0.285714286,0.571428571
+NC0920300,Cary Police Department,16,20,32,1,1.25,2
+NC0960000,Wayne County Sheriff's Office,43,51,50,1,1.186046512,1.162790698
+NC0970000,Wilkes County Sheriff's Office,18,24,14,1,1.333333333,0.777777778
+ND0080100,Bismarck Police Department,2,9,3,1,4.5,1.5
+ND0090200,Fargo Police Department,6,14,18,1,2.333333333,3
+ND0180100,Grand Forks Police Department,1,3,4,1,3,4
+NH0063400,Manchester Police Department,104,143,95,1,1.375,0.913461538
+NH0064600,Nashua Police Department,1,3,2,1,3,2
+NM0010100,Albuquerque Police Department,1211,1574,1708,1,1.299752271,1.410404624
+NM0070000,Dona Ana County Sheriff's Office,17,57,64,1,3.352941176,3.764705882
+OH0091500,West Chester Township Police Department,4,15,16,1,3.75,4
+OH0120000,Clark County Sheriff's Office,2,13,5,1,6.5,2.5
+OH0130000,Clermont County Sheriff's Office,24,10,9,1,0.416666667,0.375
+OH0184200,Parma Police Department,17,25,19,1,1.470588235,1.117647059
+OH0230000,Fairfield County Sheriff's Office,11,16,11,1,1.454545455,1
+OH0250000,Franklin County Sheriff's Office,2,7,5,1,3.5,2.5
+OH0250300,Dublin Police Department,4,1,0,1,0.25,0
+OH0314200,Colerain Township Police Department,5,23,28,1,4.6,5.6
+OH0314400,Green Township Police Department,0,13,12,#DIV/0!,#DIV/0!,#DIV/0!
+OH0450100,Newark Police Department,10,10,12,1,1,1.2
+OH0470000,Lorain County Sheriff's Office,4,12,9,1,3,2.25
+OH0470400,Elyria Police Department,12,19,27,1,1.583333333,2.25
+OH0470500,Lorain Police Department,45,70,67,1,1.555555556,1.488888889
+OH0480000,Lucas County Sheriff's Office,15,14,15,1,0.933333333,1
+OH0480700,Toledo Police Department,594,754,902,1,1.269360269,1.518518519
+OH0500900,Youngstown Police Department,49,23,178,1,0.469387755,3.632653061
+OH0570000,Montgomery County Sheriff's Office,48,81,71,1,1.6875,1.479166667
+OH0570200,Dayton Police Department,275,436,461,1,1.585454545,1.676363636
+OH0700000,Richland County Sheriff's Office,9,13,13,1,1.444444444,1.444444444
+OH0710000,Ross County Sheriff's Office,19,15,13,1,0.789473684,0.684210526
+OH0730000,Scioto County Sheriff's Office,7,4,4,1,0.571428571,0.571428571
+OH0760000,Stark County Sheriff's Office,15,26,25,1,1.733333333,1.666666667
+OH0760400,Canton Police Department,192,255,291,1,1.328125,1.515625
+OH0770000,Summit County Sheriff's Office,5,11,12,1,2.2,2.4
+OH0770100,Akron Police Department,304,453,434,1,1.490131579,1.427631579
+OH0830000,Warren County Sheriff's Office,6,4,7,1,0.666666667,1.166666667
+OH0850000,Wayne County Sheriff's Office,5,6,8,1,1.2,1.6
+OHCIP0000,Cincinnati Police Department,653,908,862,1,1.39050536,1.320061256
+OHCLP0000,Cleveland Police Department,989,1530,1589,1,1.547017189,1.606673407
+OHCOP0000,Columbus Police Department,700,1027,1216,1,1.467142857,1.737142857
+OK0140200,Norman Police Department,23,50,48,1,2.173913043,2.086956522
+OK0550300,Edmond Police Department,13,23,22,1,1.769230769,1.692307692
+OK0600200,Stillwater Police Department,9,19,7,1,2.111111111,0.777777778
+OR0020100,Corvallis Police Department,0,3,2,#DIV/0!,#DIV/0!,#DIV/0!
+OR0030000,Clackamas County Sheriff's Office,29,40,40,1,1.379310345,1.379310345
+OR0090000,Deschutes County Sheriff's Office,8,4,3,1,0.5,0.375
+OR0090100,Bend Police Department,6,2,1,1,0.333333333,0.166666667
+OR0100000,Douglas County Sheriff's Office,9,24,14,1,2.666666667,1.555555556
+OR0150000,Jackson County Sheriff's Office,11,2,4,1,0.181818182,0.363636364
+OR0150400,Medford Police Department,29,24,10,1,0.827586207,0.344827586
+OR0200200,Eugene Police Department,13,24,33,1,1.846153846,2.538461538
+OR0200600,Springfield Police Department,2,8,8,1,4,4
+OR0220000,Linn County Sheriff's Office,2,3,0,1,1.5,0
+OR0220100,Albany Police Department,4,2,2,1,0.5,0.5
+OR0240200,Salem Police Department,69,72,91,1,1.043478261,1.31884058
+OR0260100,Gresham Police Department,33,64,81,1,1.939393939,2.454545455
+OR0260200,Portland Police Department,327,396,756,1,1.211009174,2.311926606
+OR0340000,Washington County Sheriff's Office,26,42,50,1,1.615384615,1.923076923
+OR0340100,Beaverton Police Department,20,19,21,1,0.95,1.05
+OR0340300,Hillsboro Police Department,16,28,18,1,1.75,1.125
+OR0340400,Tigard Police Department,12,14,14,1,1.166666667,1.166666667
+RI0020300,Warwick Police Department,2,4,6,1,2,3
+RI0040200,Cranston Police Department,5,6,14,1,1.2,2.8
+RI0040800,Pawtucket Police Department,27,42,52,1,1.555555556,1.925925926
+RI0040900,Providence Police Department,85,116,98,1,1.364705882,1.152941176
+SC0040000,Anderson County Sheriff's Office,191,264,258,1,1.382198953,1.35078534
+SC0070000,Beaufort County Sheriff's Office,114,137,136,1,1.201754386,1.192982456
+SC0080000,Berkeley County Sheriff's Office,69,131,120,1,1.898550725,1.739130435
+SC0100000,Charleston County Sheriff's Office,47,34,50,1,0.723404255,1.063829787
+SC0100100,Charleston Police Department,124,167,178,1,1.346774194,1.435483871
+SC0100300,Mount Pleasant Police Department,12,17,17,1,1.416666667,1.416666667
+SC0100800,North Charleston Police Department,240,313,324,1,1.304166667,1.35
+SC0160000,Darlington County Sheriff's Office,122,98,151,1,0.803278689,1.237704918
+SC0180000,Dorchester County Sheriff's Office,93,92,98,1,0.989247312,1.053763441
+SC0180200,Summerville Police Department,29,18,19,1,0.620689655,0.655172414
+SC0210000,Florence County Sheriff's Office,121,148,150,1,1.223140496,1.239669421
+SC0220000,Georgetown County Sheriff's Office,39,53,36,1,1.358974359,0.923076923
+SC0230000,Greenville County Sheriff's Office,328,444,381,1,1.353658537,1.161585366
+SC0230200,Greenville Police Department,65,104,117,1,1.6,1.8
+SC0260400,Horry County Police Department,189,257,221,1,1.35978836,1.169312169
+SC0280000,Kershaw County Sheriff's Office,38,42,54,1,1.105263158,1.421052632
+SC0290000,Lancaster County Sheriff's Office,79,78,107,1,0.987341772,1.35443038
+SC0320000,Lexington County Sheriff's Office,114,145,167,1,1.271929825,1.464912281
+SC0370000,Oconee County Sheriff's Office,38,69,72,1,1.815789474,1.894736842
+SC0380000,Orangeburg County Sheriff's Office,196,282,302,1,1.43877551,1.540816327
+SC0390000,Pickens County Sheriff's Office,48,53,46,1,1.104166667,0.958333333
+SC0400000,Richland County Sheriff's Office,570,613,644,1,1.075438596,1.129824561
+SC0400100,Columbia Police Department,248,291,337,1,1.173387097,1.358870968
+SC0420000,Spartanburg County Sheriff's Office,217,253,253,1,1.165898618,1.165898618
+SC0430000,Sumter County Sheriff's Office,117,151,153,1,1.290598291,1.307692308
+SC0460000,York County Sheriff's Office,54,72,79,1,1.333333333,1.462962963
+SD0490200,Sioux Falls Police Department,83,104,131,1,1.253012048,1.578313253
+SD0510100,Rapid City Police Department,31,57,51,1,1.838709677,1.64516129
+TN0050000,Blount County Sheriff's Office,57,67,53,1,1.175438596,0.929824561
+TN0060000,Bradley County Sheriff's Office,21,46,49,1,2.19047619,2.333333333
+TN0180000,Cumberland County Sheriff's Office,11,10,15,1,0.909090909,1.363636364
+TN0190100,Nashville Metropolitan Police Department,1490,1985,2139,1,1.332214765,1.43557047
+TN0330000,Hamilton County Sheriff's Office,23,37,38,1,1.608695652,1.652173913
+TN0330100,Chattanooga Police Department,407,606,762,1,1.488943489,1.872235872
+TN0470000,Knox County Sheriff's Office,89,111,121,1,1.247191011,1.359550562
+TN0470100,Knoxville Police Department,245,380,417,1,1.551020408,1.702040816
+TN0570100,Jackson Police Department,160,207,210,1,1.29375,1.3125
+TN0630000,Montgomery County Sheriff's Office,21,28,24,1,1.333333333,1.142857143
+TN0630100,Clarksville Police Department,225,263,278,1,1.168888889,1.235555556
+TN0750000,Rutherford County Sheriff's Office,48,51,63,1,1.0625,1.3125
+TN0750100,Murfreesboro Police Department,107,169,164,1,1.579439252,1.53271028
+TN0750200,Smyrna Police Department,32,50,47,1,1.5625,1.46875
+TN0780000,Sevier County Sheriff's Office,21,33,25,1,1.571428571,1.19047619
+TN0790000,Shelby County Sheriff's Office,130,213,169,1,1.638461538,1.3
+TN0790100,Collierville Police Department,18,27,9,1,1.5,0.5
+TN0790600,Bartlett Police Department,23,21,37,1,0.913043478,1.608695652
+TN0820000,Sullivan County Sheriff's Office,41,72,49,1,1.756097561,1.195121951
+TN0820200,Kingsport Police Department,45,83,99,1,1.844444444,2.2
+TN0830000,Sumner County Sheriff's Office,25,20,25,1,0.8,1
+TN0830400,Hendersonville Police Department,27,18,7,1,0.666666667,0.259259259
+TN0900000,Washington County Sheriff's Office,32,38,32,1,1.1875,1
+TN0900100,Johnson City Police Department,50,52,50,1,1.04,1
+TN0940000,Williamson County Sheriff's Office,22,15,22,1,0.681818182,1
+TN0940100,Franklin Police Department,24,29,32,1,1.208333333,1.333333333
+TN0950000,Wilson County Sheriff's Office,13,22,15,1,1.692307692,1.153846154
+TNMPD0000,Memphis Police Department,3362,4810,5608,1,1.430696014,1.668054729
+TX0140700,Temple Police Department,52,98,88,1,1.884615385,1.692307692
+TX0201000,Pearland Police Department,15,27,39,1,1.8,2.6
+TX0210200,College Station Police Department,26,36,47,1,1.384615385,1.807692308
+TX0310100,Brownsville Police Department,75,87,98,1,1.16,1.306666667
+TX0310300,Harlingen Police Department,25,30,56,1,1.2,2.24
+TX0430400,Frisco Police Department,21,35,59,1,1.666666667,2.80952381
+TX0430500,McKinney Police Department,57,69,68,1,1.210526316,1.192982456
+TX0430600,Plano Police Department,53,78,83,1,1.471698113,1.566037736
+TX0430800,Wylie Police Department,1,7,9,1,7,9
+TX0460100,New Braunfels Police Department,27,41,41,1,1.518518519,1.518518519
+TX0571200,Grand Prairie Police Department,118,127,116,1,1.076271186,0.983050847
+TX0571800,Mesquite Police Department,139,178,234,1,1.28057554,1.683453237
+TX0572000,Richardson Police Department,23,33,42,1,1.434782609,1.826086957
+TX0573300,Rowlett Police Department,8,21,30,1,2.625,3.75
+TX0610200,Denton Police Department,26,67,83,1,2.576923077,3.192307692
+TX0610600,Lewisville Police Department,34,53,78,1,1.558823529,2.294117647
+TX0611200,Flower Mound Police Department,3,2,4,1,0.666666667,1.333333333
+TX0790000,Fort Bend County Sheriff's Office,238,311,318,1,1.306722689,1.336134454
+TX0790100,Missouri City Police Department,19,34,30,1,1.789473684,1.578947368
+TX0920500,Longview Police Department,95,63,78,1,0.663157895,0.821052632
+TX1011500,Pasadena Police Department,107,163,181,1,1.523364486,1.691588785
+TX1050100,San Marcos Police Department,32,39,64,1,1.21875,2
+TX1050700,Kyle Police Department,7,6,15,1,0.857142857,2.142857143
+TX1110000,Hood County Sheriff's Office,16,25,17,1,1.5625,1.0625
+TX1290000,Kaufman County Sheriff's Office,25,22,46,1,0.88,1.84
+TX1520200,Lubbock Police Department,442,545,577,1,1.233031674,1.305429864
+TX1551200,Waco Police Department,156,242,308,1,1.551282051,1.974358974
+TX1700100,Conroe Police Department,44,30,60,1,0.681818182,1.363636364
+TX1840000,Parker County Sheriff's Office,33,35,40,1,1.060606061,1.212121212
+TX1880100,Amarillo Police Department,285,404,371,1,1.41754386,1.301754386
+TX2120400,Tyler Police Department,87,129,155,1,1.482758621,1.781609195
+TX2200100,Arlington Police Department,476,531,630,1,1.115546218,1.323529412
+TX2201200,Fort Worth Police Department,756,1132,1390,1,1.497354497,1.838624339
+TX2202100,North Richland Hills Police Department,24,32,32,1,1.333333333,1.333333333
+TX2210100,Abilene Police Department,76,101,125,1,1.328947368,1.644736842
+TX2260100,San Angelo Police Department,91,116,90,1,1.274725275,0.989010989
+TX2270100,Austin Police Department,571,964,1128,1,1.6882662,1.975481611
+TX2270900,Pflugerville Police Department,12,26,36,1,2.166666667,3
+TX2350100,Victoria Police Department,80,96,90,1,1.2,1.125
+TX2400100,Laredo Police Department,101,104,122,1,1.02970297,1.207920792
+TX2460000,Williamson County Sheriff's Office,30,49,44,1,1.633333333,1.466666667
+TX2460200,Georgetown Police Department,9,15,24,1,1.666666667,2.666666667
+TX2490000,Wise County Sheriff's Office,23,21,14,1,0.913043478,0.608695652
+TXDPD0000,Dallas Police Department,2851,3620,3839,1,1.269729919,1.346545072
+TXHPD0000,Houston Police Department,3742,5626,6325,1,1.503474078,1.690272582
+UT0030100,Logan Police Department,5,2,7,1,0.4,1.4
+UT0060300,Layton Police Department,9,3,10,1,0.333333333,1.111111111
+UT0180000,Salt Lake County Unified Police Department,82,94,75,1,1.146341463,0.914634146
+UT0180300,Salt Lake City Police Department,108,165,202,1,1.527777778,1.87037037
+UT0180600,West Jordan Police Department,19,25,26,1,1.315789474,1.368421053
+UT0181800,South Jordan Police Department,7,9,10,1,1.285714286,1.428571429
+UT0182500,West Valley Police Department,57,61,85,1,1.070175439,1.49122807
+UT0250000,Utah County Sheriff's Office,5,5,2,1,1,0.4
+UT0250600,Provo Police Department,2,0,2,1,0,1
+UT0270100,St. George Police Department,12,9,17,1,0.75,1.416666667
+UT0290000,Weber County Sheriff's Office,6,10,10,1,1.666666667,1.666666667
+UT0290100,Ogden Police Department,22,44,51,1,2,2.318181818
+VA0020300,Albemarle County Police Department,4,7,10,1,1.75,2.5
+VA0070100,Arlington County Police Department,23,34,53,1,1.47826087,2.304347826
+VA0080000,Augusta County Sheriff's Office,11,14,6,1,1.272727273,0.545454545
+VA0100000,Bedford County Sheriff's Office,11,26,25,1,2.363636364,2.272727273
+VA0160000,Campbell County Sheriff's Office,20,24,32,1,1.2,1.6
+VA0210100,Chesterfield County Police Department,32,44,116,1,1.375,3.625
+VA0290100,Fairfax County Police Department,32,45,40,1,1.40625,1.25
+VA0300000,Fauquier County Sheriff's Office,1,1,3,1,1,3
+VA0330000,Franklin County Sheriff's Office,6,7,7,1,1.166666667,1.166666667
+VA0340000,Frederick County Sheriff's Office,6,5,4,1,0.833333333,0.666666667
+VA0420000,Hanover County Sheriff's Office,33,25,34,1,0.757575758,1.03030303
+VA0430100,Henrico County Police Department,115,158,213,1,1.373913043,1.852173913
+VA0470100,James City County Police Department,6,6,4,1,1,0.666666667
+VA0530000,Loudoun County Sheriff's Office,14,12,10,1,0.857142857,0.714285714
+VA0530100,Leesburg Police Department,2,11,9,1,5.5,4.5
+VA0710000,Pittsylvania County Sheriff's Office,11,6,11,1,0.545454545,1
+VA0750300,Prince William County Police Department,105,183,215,1,1.742857143,2.047619048
+VA0800300,Roanoke County Police Department,32,35,45,1,1.09375,1.40625
+VA0820000,Rockingham County Sheriff's Office,3,13,15,1,4.333333333,5
+VA0880000,Spotsylvania County Sheriff's Office,8,11,12,1,1.375,1.5
+VA0890000,Stafford County Sheriff's Office,49,57,71,1,1.163265306,1.448979592
+VA0980000,York County Sheriff's Office,13,21,25,1,1.615384615,1.923076923
+VA0990000,Alexandria Police Department,31,44,60,1,1.419354839,1.935483871
+VA1030000,Chesapeake Police Department,168,231,301,1,1.375,1.791666667
+VA1110000,Hampton Police Department,97,101,111,1,1.041237113,1.144329897
+VA1120000,Harrisonburg Police Department,11,13,10,1,1.181818182,0.909090909
+VA1140000,Lynchburg Police Department,45,78,79,1,1.733333333,1.755555556
+VA1160000,Newport News Police Department,289,347,370,1,1.200692042,1.280276817
+VA1170000,Norfolk Police Department,288,445,573,1,1.545138889,1.989583333
+VA1200000,Portsmouth Police Department,295,289,282,1,0.979661017,0.955932203
+VA1220000,Richmond Police Department,201,186,218,1,0.925373134,1.084577114
+VA1230000,Roanoke Police Department,73,126,120,1,1.726027397,1.643835616
+VA1270000,Suffolk Police Department,49,103,128,1,2.102040816,2.612244898
+VA1280000,Virginia Beach Police Department,29,53,53,1,1.827586207,1.827586207
+WA0030100,Kennewick Police Department,38,27,59,1,0.710526316,1.552631579
+WA0030200,Richland Police Department,12,20,20,1,1.666666667,1.666666667
+WA0060000,Clark County Sheriff's Office,14,28,24,1,2,1.714285714
+WA0060300,Vancouver Police Department,42,70,126,1,1.666666667,3
+WA0110200,Pasco Police Department,20,16,34,1,0.8,1.7
+WA0150000,Island County Sheriff's Office,4,3,4,1,0.75,1
+WA0170000,King County Sheriff's Office,48,46,70,1,0.958333333,1.458333333
+WA0170100,Auburn Police Department,39,36,38,1,0.923076923,0.974358974
+WA0170200,Bellevue Police Department,8,19,15,1,2.375,1.875
+WA0170700,Kent Police Department,46,74,105,1,1.608695652,2.282608696
+WA0170800,Kirkland Police Department,6,6,5,1,1,0.833333333
+WA0171200,Redmond Police Department,6,3,2,1,0.5,0.333333333
+WA0171300,Renton Police Department,34,61,61,1,1.794117647,1.794117647
+WA0173600,Federal Way Police Department,45,71,118,1,1.577777778,2.622222222
+WA0174100,Burien Police Department,19,27,36,1,1.421052632,1.894736842
+WA0174300,Shoreline Police Department,4,9,13,1,2.25,3.25
+WA0175000,Sammamish Police Department,1,2,3,1,2,3
+WA0180000,Kitsap County Sheriff's Office,21,28,28,1,1.333333333,1.333333333
+WA0230000,Mason County Sheriff's Office,13,4,10,1,0.307692308,0.769230769
+WA0270000,Pierce County Sheriff's Office,163,198,268,1,1.214723926,1.644171779
+WA0270300,Tacoma Police Department,379,443,756,1,1.168865435,1.994722955
+WA0272300,Lakewood Police Department,69,72,101,1,1.043478261,1.463768116
+WA0290000,Skagit County Sheriff's Office,5,7,4,1,1.4,0.8
+WA0310000,Snohomish County Sheriff's Office,59,55,63,1,0.93220339,1.06779661
+WA0310300,Everett Police Department,32,36,59,1,1.125,1.84375
+WA0310500,Marysville Police Department,12,5,19,1,0.416666667,1.583333333
+WA0320000,Spokane County Sheriff's Office,23,23,30,1,1,1.304347826
+WA0320400,Spokane Police Department,124,157,197,1,1.266129032,1.588709677
+WA0321500,Spokane Valley Police Department,19,29,32,1,1.526315789,1.684210526
+WA0340000,Thurston County Sheriff's Office,20,19,31,1,0.95,1.55
+WA0340100,Olympia Police Department,7,14,10,1,2,1.428571429
+WA0340400,Lacey Police Department,4,4,7,1,1,1.75
+WA0370000,Whatcom County Sheriff's Office,14,8,12,1,0.571428571,0.857142857
+WA0370100,Bellingham Police Department,11,7,20,1,0.636363636,1.818181818
+WA0390000,Yakima County Sheriff's Office,16,22,28,1,1.375,1.75
+WA0390500,Yakima Police Department,65,146,118,1,2.246153846,1.815384615
+WASPD0000,Seattle Police Department,280,377,544,1,1.346428571,1.942857143
+WI0050000,Brown County Sheriff's Office,2,0,1,1,0,0.5
+WI0050200,Green Bay Police Department,40,55,58,1,1.375,1.45
+WI0130000,Dane County Sheriff's Office,6,15,17,1,2.5,2.833333333
+WI0130100,Madison Police Department,64,82,84,1,1.28125,1.3125
+WI0180100,Eau Claire Police Department,9,15,7,1,1.666666667,0.777777778
+WI0320100,La Crosse Police Department,1,2,1,1,2,1
+WI0370000,Marathon County Sheriff's Office,4,4,4,1,1,1
+WI0411600,West Allis Police Department,14,15,11,1,1.071428571,0.785714286
+WI0450000,Outagamie County Sheriff's Office,0,3,0,#DIV/0!,#DIV/0!,#DIV/0!
+WI0450100,Appleton Police Department,8,9,16,1,1.125,2
+WI0520200,Racine Police Department,28,61,31,1,2.178571429,1.107142857
+WI0540200,Janesville Police Department,2,1,2,1,0.5,1
+WI0560000,St. Croix County Sheriff's Office,1,1,6,1,1,6
+WI0710300,Oshkosh Police Department,11,6,8,1,0.545454545,0.727272727
+WIMPD0000,Milwaukee Police Department,1733,2658,2942,1,1.533756492,1.69763416
+WV0020000,Berkeley County Sheriff's Office,10,21,17,1,2.1,1.7
+WV0200000,Kanawha County Sheriff's Office,69,68,65,1,0.985507246,0.942028986
+WV0310000,Monongalia County Sheriff's Office,8,2,9,1,0.25,1.125
+WV0410000,Raleigh County Sheriff's Office,9,30,27,1,3.333333333,3
