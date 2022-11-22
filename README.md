@@ -15,6 +15,7 @@ Looking at assaults, weapons, and firearms in the NIBRS data across agencies acr
 ### Staff involved
 
 Amy Fan, Data Reporter
+
 Rosie Cima, Data Reporter
 
 ### Data sources
@@ -28,7 +29,8 @@ Rosie Cima, Data Reporter
 ## Technical
 
 * Run the files in the etl folder in order to extract the data
-* Analyses and intermediate datasets for data visualizations are in the "analysis" folder
+* Analyses and intermediate datasets for data visualizations are in the analysis folder
+* analysis/notebooks contains additional notes
 
 ## Data notes
 
